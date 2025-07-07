@@ -26,5 +26,7 @@ dist-ssr
 deno.lock
 deno.json
 
+.deno_plugins
+
 
 .env
